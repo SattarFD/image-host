@@ -1,0 +1,107 @@
+[
+ {
+  "page": 1,
+  "title": "Concrete Masonry",
+  "images": []
+ },
+ {
+  "page": 2,
+  "title": "Waffle slab",
+  "images": [
+   "bld_02_waffle-slab_1.png",
+   "bld_02_waffle-slab_2.png",
+   "bld_02_waffle-slab_3.png"
+  ]
+ },
+ {
+  "page": 3,
+  "title": "CMB - Foundation",
+  "images": []
+ },
+ {
+  "page": 4,
+  "title": "Building Geotech input",
+  "images": []
+ },
+ {
+  "page": 5,
+  "title": "Bond Beam",
+  "images": []
+ },
+ {
+  "page": 6,
+  "title": "Lintels",
+  "images": []
+ },
+ {
+  "page": 7,
+  "title": "Construction Detail",
+  "images": []
+ },
+ {
+  "page": 8,
+  "title": "Diaphragms",
+  "images": []
+ },
+ {
+  "page": 9,
+  "title": "Wall Design",
+  "images": []
+ },
+ {
+  "page": 10,
+  "title": "Environmental actions",
+  "images": []
+ },
+ {
+  "page": 11,
+  "title": "Building Load",
+  "images": [
+   "bld_11_building-load_1.png",
+   "bld_11_building-load_2.png",
+   "bld_11_building-load_3.png",
+   "bld_11_building-load_4.png",
+   "bld_11_building-load_5.png",
+   "bld_11_building-load_6.png",
+   "bld_11_building-load_7.png",
+   "bld_11_building-load_8.png",
+   "bld_11_building-load_9.png"
+  ]
+ },
+ {
+  "page": 12,
+  "title": "Portal frame",
+  "images": [
+   "bld_12_portal-frame_1.png"
+  ]
+ },
+ {
+  "page": 13,
+  "title": "Clearance to finish ground",
+  "images": [
+   "bld_13_clearance-to-finish-ground_1.png",
+   "bld_13_clearance-to-finish-ground_2.png",
+   "bld_13_clearance-to-finish-ground_3.png",
+   "bld_13_clearance-to-finish-ground_4.png",
+   "bld_13_clearance-to-finish-ground_5.png",
+   "bld_13_clearance-to-finish-ground_6.png"
+  ]
+ },
+ {
+  "page": 14,
+  "title": "Basement wall waterproofing",
+  "images": []
+ },
+ {
+  "page": 15,
+  "title": "Light Timber Frame (LTF)",
+  "images": []
+ },
+ {
+  "page": 16,
+  "title": "Stone Masonry",
+  "images": [
+   "bld_16_stone-masonry_1.png"
+  ]
+ }
+]
