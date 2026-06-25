@@ -1,0 +1,475 @@
+[
+ {
+  "title": "Design Recommendations",
+  "section": "Retaining Walls – General",
+  "tags": [
+   "Walls"
+  ],
+  "std": [],
+  "note_type": "Concept-Theory",
+  "content": "_Captured Wednesday, 3 August 2016 9:02 p.m. · Bridge › Retaining Walls – General_\n\n- RRU 84-2 Seismic design of bridge abutments and retaining walls\n- It is recommended that seismic design procedures consider the reduction in pressures arising from wall flexibility and permanent deformation.\n- For rigid wall\n- Intermediate case\n- Soft wall\n- Monobe-Okabe (MO) method\n- Monobe-Okabe (MO) method\n- only give the\n- total\n- active and passive\n- forces\n- , but not the correct pressure\n- distribution. From Wallap manual",
+  "imgs": []
+ },
+ {
+  "title": "Backfill stiffness and resistance",
+  "section": "Loads & Analysis",
+  "tags": [
+   "Analysis"
+  ],
+  "std": [
+   "Bridge Manual"
+  ],
+  "note_type": "Reference Summary",
+  "content": "_Captured Sunday, 5 August 2018 3:06 p.m. · Bridge › Loads & Analysis_\n\n- Existing backfill may consider consolidation\n- Reference Document;\n- Bridge-manual-pdf-complete-v3.3-unlocked\n- SPECIFICATIONS FOR BRIDGE CONSTRUCTION - SECTION 2 - BACKFILL\n- `C:\\Sattar\\Books\\Bridge\\Backfill`\n- Construction;\n- To satisfy Cl 4.10.5 and Cl 4.12.2 of Bridge Manual\n- Static analysis;\n- Abutment Passive Resistance - General Khalili-Tehrani (Verified)\n- Seismic analysis;\n- Abutment backfill stiffness and resistance\n- Section 7.8.1 Seismic-Design-Criteria-(SDC-1.7-Full-Version,-OEE-Release)",
+  "imgs": []
+ },
+ {
+  "title": "MSE Wall Design",
+  "section": "Wall Types",
+  "tags": [
+   "Walls"
+  ],
+  "std": [],
+  "note_type": "Reference Summary",
+  "content": "> 📷 **3 diagram(s)** — embed pending host URL\n> `brg_03_mse-wall-design_1.png, brg_03_mse-wall-design_2.png, brg_03_mse-wall-design_3.png`\n\n_Captured Sunday, 10 March 2024 11:33 AM · Bridge › Wall Types_\n\n- Reference Documents;\n\n**NZ**\n- RR 239-Guidelines for design and construction of geosynthetic reinforced soil structures in New Zealand\n- Bridge-manual-pdf-complete-v3.4\n- Bridge abutments from geogrid reinforced soil - New Zealand Geotechnical Society\n- AS;\n- TS 02164.1_0.00_Design Of Reinforced Soil Walls - QA\n\n**US**\n- `C:\\Users\\ausfd0\\OneDrive\\6- Books\\Standards\\US\\FHWA\\Design and Construction of Mechanically Stabilized Earth Walls and Reinforced Soil`\n- `C:\\Users\\ausfd0\\OneDrive - WSP O365\\6- Books\\Standards\\US\\DOT\\NYCDOT\\Chapt_9\\Fill Type Retaining Wall`\n\n**Best Practice**\n- NCMA Best Practices 2016-WEB - E1P1\n- Issue 562 - Low-retaining-walls\n\n**Max bankseat pressure**\n- FHWA-NHI-10-024 - Design and Construction of Mechanically Stabilized Earth Walls and Reinforced Soil Slopes – Volume I\n- From\n- highway_bridges\n- Limitation\n- When drainage must be constructed within the reinforced zone\n- When flood-plain erosion may undermine the reinforced fill zone\n- GRS walls should be limited to 15 m in height\n- minimum reinforcement length of 0.7 H is recommended\n- Minimum embedment;",
+  "imgs": [
+   "brg_03_mse-wall-design_1.png",
+   "brg_03_mse-wall-design_2.png",
+   "brg_03_mse-wall-design_3.png"
+  ]
+ },
+ {
+  "title": "Geomechanics",
+  "section": "Loads & Analysis",
+  "tags": [
+   "Analysis"
+  ],
+  "std": [],
+  "note_type": "Concept-Theory",
+  "content": "> 📷 **5 diagram(s)** — embed pending host URL\n> `brg_04_geomechanics_1.png, brg_04_geomechanics_2.png, brg_04_geomechanics_3.png, brg_04_geomechanics_4.png, brg_04_geomechanics_5.png`\n\n_Captured Thursday, 16 January 2025 11:47 pm · Bridge › Loads & Analysis_\n\n- A4 Geomechanics\n- STRESS ANALYSIS\n- compressive direct stresses and strains as positive\n- there will be three orthogonal planes on which the shear stress is zero. These three planes are known as principal planes,\n- The largest principal stress is termed the major principal stress, the smallest principal stress is the minor principal stress, and the remaining principal stress is the intermediate principal stress.\n- Total and effective stress\n- A saturated soil comprises two distinct material phases, the soil particles and the pore water,\n- Unsaturated soils, containing air in the pores as well as water, are more complicated and assumed effectively dry\n- Mohr circle of stress\n- Mohr circle of stress\n- The centre of the circle of effective stress is at ([σ′1 + σ′3]/2, 0),\n\n**Maximum shear t**\n- [σ′1 – σ′3]/2 (or [σ1 – σ3]/2) is equal to the maximum shear stress acting within the principal plane represented by the Mohr circle and is conventionally given the symbol t.\n- Mohr circle of stress shows that, maximum shear occurs at angles of ±90° to the normal stress axis that are at ±45° to the planes on which the major and minor principal stresses act.\n- The maximum ratio of shear to normal effective stress, (τ/σ’)max , occurs where the tangents through the origin touch the circle. ±(90° ± ϕ′) to the normal stress axis\n- DRAINED AND UNDRAINED CONDITIONS\n- The changes in pore water pressure that occur in a clay during consolidation or swelling can significantly affect the stability of a geotechnical structure.\n- unloading processes will promote swelling and softening of the soil\n- (which can make failure more likely in the long term\n- ),\n- while loading processes will cause long-term consolidation (so that failure is more likely in the short term, immediately after loading).\n- So in clays, it is usually necessary to investigate separately the possibility of failure in both the short term (ie immediately after loading/unloading) and in the long term.\n- Long term analysis\n- ffective stresses\n- drained analysis\n- Short term analysis\n- it is possible to carry out an analysis in terms of total stresses\n- This is termed an undrained analysis, as the underlying assumption that there is no volume change is equivalent to assuming that there is no drainage of pore water into or out of a saturated soil.\n- Wall construction in clay\n- Excavation in front of an embedded retaining wall in a stiff clay is also an unloading process. It is likely to generate negative excess pore water pressures, so that stability would be expected to be more critical in the long term than in the short term.\n- it also brings about changes in the hydraulic boundary conditions (for example, a lowering of the groundwater level in front of the wall) that make the long-termequilibrium pore water pressures different from the initial groundwater regime.\n- there may be a degree of vertical reloading as basement floors are constructed and soft clays can be more problematic in the short term.\n- A soil that has previously been consolidated to a higher vertical effective stress than that which currently acts is overconsolidated, with an overconsolidation ratio (OCR) given by:\n- A rise in the groundwater level will reduce the vertical effective stress, resulting in overconsolidation without physical overburden removal.\n- When quoting a value of soil strength, it is important to state whether it refers to the peak, critical state, or residual.\n- A4.4 Shear strength\n- A4.4.1 - Effective stress\n- Angle of shearing resistance Φ'\n- Effective cohesion, c',\n- generally small or zero\n- A4.4.2 - Total stress (undrained shear strength)\n- Undrained shear strength, c\n- u\n- A4.4.3 - Drained or undrained conditions\n- As excavation in front of an embedded retaining wall is an unloading process,\n- the stability of the wall might often be expected to be more critical in the long term as the negative excess pore water pressures induced on excavation dissipate and the clay tends to soften and swell.",
+  "imgs": [
+   "brg_04_geomechanics_1.png",
+   "brg_04_geomechanics_2.png",
+   "brg_04_geomechanics_3.png",
+   "brg_04_geomechanics_4.png",
+   "brg_04_geomechanics_5.png"
+  ]
+ },
+ {
+  "title": "General - Retaining wall",
+  "section": "Retaining Walls – General",
+  "tags": [
+   "Walls"
+  ],
+  "std": [
+   "AS 5100"
+  ],
+  "note_type": "Reference Summary",
+  "content": "> 📷 **6 diagram(s)** — embed pending host URL\n> `brg_05_general-retaining-wall_1.png, brg_05_general-retaining-wall_2.png, brg_05_general-retaining-wall_3.png, brg_05_general-retaining-wall_4.png, brg_05_general-retaining-wall_5.png, brg_05_general-retaining-wall_6.png`\n\n_Captured Wednesday, 15 July 2020 4:58 PM · Bridge › Retaining Walls – General_\n\n- Procedure\n- Gravity, MSE and RSS\n- NZGS_Retaining-Walls-Part-1-Poster-V5\n- Embedded Cantilever and Anchored\n- NZGS_Retaining-Walls-Part-2-Poster-V4\n- Design file;\n- Cantilever retaining walls design\n- Drawings\n- KHT-NZU-S2Z5-GT-DG_COMBINED\n- Specification\n- KHT-NZU-SPE-05 Rev B Part E Geotechnical and Civil Structures\n- Fusion\n- Timber pole retaining wall - 12-01-2025\n- Reference documents;\n- AS;\n- AS 4678-2002 - Earth-retaining structures\n- AS 5100.3-2017 - Foundation and soil-supporting structures\n- Bridge-Technical-Note-023-AS-5100-Foundations-and-Soils-Supporting-Structures-Part-3-(v3)\n- EC\n- CIRIA_C760 - Guidance on embedded retaining wall design\n- BS EN 1997-1-2004\n- Manual For The Design of Reinforced Concrete Building Structures to EC2\n- US\n- NCHRP-RPT-343 - Manuals for the design of bridge foundations\n- FHWA Geotechnical Engineering Circulars (GECs)\n- ACI 318M-14 - Building Code Requirements for Structural Concrete (ACI 318M-14) and Commentary (ACI 318RM-14)\n- 5-5-a11y\n- sc-ts-a11y\n\n**Examples**\n- G06-002 - Geotechnical Engineering - Earth Retaining Structures - US (1)\n- NZ;\n- b1-structure-1st-edition-amendment-21 , Page 59\n\n**Auckland**\n- ac2231-retaining-walls\n\n**SeSoc**\n- 2024, PoleWallDesignGuideV1.0\n- 2014(27)356 - Timber pole retaining walls in cohesive soils - design variables investigation\n- Limit State Design of Retaining Walls and Foundations for Geotechnical and Structural Engineers – 1994\n- NZGS\n- 2021, module-6-earthquake-resistant-retaining-wall-design-version-1\n- MBIE\n- 2014, Guidance on the seismic design of retaining structures\n- Summary\n- NZSEE: Bird 0020\n- NZTA\n- RRU 84-2 Seismic design of bridge abutments and retaining walls\n- b1-structure-1st-edition-amendment-21 , Page 59\n- Serviceability limit state deformations are not covered\n- Overall ground stability needs to be verified before this document can be applied\n- This document must not be used to design foundations on loose sands, saturated dense sands or on cohesive soils having a sensitivity greater than 4.\n- This document shall not be used for foundations subject to continuous vibration.\n- ACI 318M-14\n- ASCE 7 defines a structural wall as a wall that meets the definition for a bearing wall or a shear wall.\n- bearing wall\n- shear wall\n- Shear wall\n- Plane concrete wall\n- Cantilever retaining wall\n- Wall as a grade beam\n- Minimum reinforcement at connection\n- 0.005Ag\n- General\n- Water proofing\n- Building\n- CIRIA_R139 - Water-resisting basements\n- BS 8102-2009 Protection of below ground structures against water from the ground\n- Slenderness\n- Wall to be at least 250mm thick\n- Durability\n- Reinforced Concrete Analysis and Design\n- Unbraced; wall is designed to carry lateral load\n- Braced; wall not carry any lateral loads\n- Wall effective height\n- Reinforced wall — cantilever construction\n- for moment connection at foundation\n- Laterally loaded wall;\n- To be designed as a beam with additional of\n- Check for minimum horizontal reinforcements\n- Expansion joint;\n- Expansion joint spacing in straight wall to be between 60 to 100m ACI 224.3\n- Recommended joint width 25mm\n- Check slope behind the wall\n- During construction, compaction\n- At rest pressure, ko\n- Surcharge, if moved under surcharge, then ka for soil as well\n\n**Minimum Surcharge**\n- 2 Feet height of soil, soil embankment, small equipment, material storage",
+  "imgs": [
+   "brg_05_general-retaining-wall_1.png",
+   "brg_05_general-retaining-wall_2.png",
+   "brg_05_general-retaining-wall_3.png",
+   "brg_05_general-retaining-wall_4.png",
+   "brg_05_general-retaining-wall_5.png",
+   "brg_05_general-retaining-wall_6.png"
+  ]
+ },
+ {
+  "title": "Design consideration",
+  "section": "Retaining Walls – General",
+  "tags": [
+   "Walls"
+  ],
+  "std": [],
+  "note_type": "Concept-Theory",
+  "content": "> 📷 **1 diagram(s)** — embed pending host URL\n> `brg_06_design-consideration_1.png`\n\n_Captured Tuesday, 14 January 2025 8:07 pm · Bridge › Retaining Walls – General_\n\n- Is embedded wall required\n- The cost of constructing a retaining wall is usually high compared with the cost of forming a battered\n- slope.\n- The need for a retaining wall should be assessed carefully during design and efforts should be\n- made to keep the retained height as low as possible.\n- Construction methods should be fully considered\n- at the start of the design stage, because different construction methods may require different detailed\n- design considerations.\n- Early contractor involvement is recommended.\n- An excavation cannot be made without causing ground movements. The chosen wall type and construction sequence should ensure that these movements, and their effects, remain within pre-defined limits. Such limits should not be unduly severe\n- Reference documents\n- CIRIA_C760 - Guidance on embedded retaining wall design\n- Design communication\n- To ensure certainty of outcome\n- good communication between all parties\n- a team approach to problem-solving\n- an integrated total project process\n- risk-based approach to design and construction management.\n- Design is a continuous process, requiring regular reviews to ensure that the client’s requirements are being met over the project life cycle.\n- he importance of maintaining effective continuity of design communication between all of the mentioned parties engaged on a project regarding\n- risks\n- ,\n- design\n- and\n- construction assumption\n- s etc cannot be over-emphasised.\n- Risk assessment\n- There are four stages of risk management\n\n**Hazard identification**\n- using experience of similar projects,\n- brainstorming\n- Risk assessment\n- the likelihood and consequence of each hazard and estimate the risk corresponding to each hazard\n- Risk reduction\n- hazards are eliminated,\n- the risks are reduced\n- Risk control\n- The risks are monitored, mitigated and managed\n- Design concepts\n- Design assumptions\n- Data required for design are collected, recorded and interpreted by appropriately qualified personnel.\n- Structures are designed by appropriately qualified and experienced personnel.\n- Adequate continuity and communication exist between the personnel involved in data collection, design and construction.\n- Adequate supervision and quality control are provided in factories, in plants, and on site.\n- Execution according to the relevant standards and specifications by personnel having the appropriate skill and experience.\n- Construction materials and products are used as specified in this standard or in the relevant material or product specifications.\n- The structure will be adequately maintained to ensure its safety and serviceability for the designed service life.\n- The structure will be used for the purpose defined for the design.\n- Geotechnical categorisation of retaining walls\n- Geotechnical design process\n- Understanding the geological and hydrogeological setting of the site\n- Lack of site investigation only acceptable for category 1\n- Understanding ground behaviour\n- Undertaking design by using calculations,\n- applying empiricism based on sound judgement and experience.\n- Design requirements and performance criteria\n- loading conditions\n- performance\n- criteria\n- Limit states.\n- Ultimate limit states\n- Ultimate limit states are concerned with the safety of people and the structure\n- Serviceability limit states\n- Serviceability limit states are concerned with the functioning of the structure under normal use,\n- Key points and recommendations\n\n**This chapter**\n- importance of continuity of design communication at all stages of the project life cycle to ensure health and safety considerations and the client’s requirements are satisfied.\n- adopt a risk-based approach to design and construction management and provides guidance on the assessment of such risk.\n- geotechnical characterisation of retaining walls and identifies the issues relevant to the establishment of design requirements and performance criteria for the wall.\n- Construction consideration\n- TYPES OF EMBEDDED RETAINING WALLS\n- Wall construction methods and tolerances\n- there should be sufficient clearance from any adjacent buildings to install the wall.,\n- It is recommended that a reinforced concrete capping beam is always used\n- distribution of bending moment, shear force and vertical load onto a number of wall piles\n- Relative construction cost data for various embedded wall types\n- WALL SELECTION\n- Cost\n- ground conditions\n- Boulders would prevent construction of CFA piles and sheet piles\n- groundwater conditions\n- the risk of erosion failure when constructing below the water table in fine sands/silts\n- interlock for water cut-off\n- Durability\n- soil contains particularly aggressive contaminants.\n- Certain aggressive chemicals prevent the use of cast in situ concrete without special protection measures (BS 8500-1:2002, BS 8500-2:2015+A1:2016, BS EN 206:2013).\n- speed of construction/programme\n- excavation depth\n- Health and safety related hazards relating to the nature of the site and its surroundings\n- the presence of obstructions\n- archaeological interest\n- the need to restrict ground movements\n- extent of the site\n- headroom restrictions\n- site access\n- construction tolerances\n- compatibility with the permanent works durability\n- degree and nature of ground contamination\n- environmental issues including noise and vibration\n- carbon emissions.\n- Constructability\n- Sheet piles, ArcelorMittal (2016)\n- Maritime structures, BS 6349-1:2000\n- Cofferdams, Williams and Waite (1993)\n- Deflection limit: Bridge-Technical-Note-023-AS-5100-Foundations-and-Soils-Supporting-Structures-Part-3-(v3)",
+  "imgs": [
+   "brg_06_design-consideration_1.png"
+  ]
+ },
+ {
+  "title": "Bridge manual requirements - Retaining walls",
+  "section": "Retaining Walls – General",
+  "tags": [
+   "Walls"
+  ],
+  "std": [
+   "Bridge Manual"
+  ],
+  "note_type": "Reference Summary",
+  "content": "> 📷 **1 diagram(s)** — embed pending host URL\n> `brg_07_bridge-manual-requirements-r_1.png`\n\n_Captured Monday, 27 January 2025 8:17 am · Bridge › Retaining Walls – General_\n\n- 6.2 Design loadings and analysis\n- 3.4.12 Earth load\n- Static earth pressure\n- Passive, active and compaction\n- Water pressure\n- shall also be allowed for unless an adequate drainage system is provided\n- Vehicle load\n- For global analysis\n- 12kPa surcharge for HN loading\n- 24kPa surcharge for HO loading\n- For local analysis\n- Boussinesq’s methos\n- For bridge half the beneficial effect of soil load shall be considered\n- Load combination\n- Statice earth pressure + Live load surcharge OR\n- Static earth pressure + earthquake earth pressure\n- load effects, as specified in 3.5,\n- (EP), Horizontal, Vertical and Negative skin friction\n- (LL), Surcharge from HN,\n- (OL), Surcharge from HO,\n- E\n- (GW), Pressure due to water\n- 6.4.1 Design of embankments\n- Under static conditions completed embankments shall have a minimum design\n- long term\n- factor of safety against all modes of failure of 1.5 based on moderately conservative\n- effective stres\n- s soil strengths\n- During construction\n- , embankments shall possess a minimum design static short term factor of safety against all modes of failure of 1.2 based on moderately conservative\n- effective stress\n- soil strengths or u\n- ndrained shear strength\n- parameters,\n- Behaviour in seismic and flood events",
+  "imgs": [
+   "brg_07_bridge-manual-requirements-r_1.png"
+  ]
+ },
+ {
+  "title": "Load Cases",
+  "section": "Loads & Analysis",
+  "tags": [
+   "Analysis"
+  ],
+  "std": [
+   "Bridge Manual"
+  ],
+  "note_type": "Reference Summary",
+  "content": "> 📷 **5 diagram(s)** — embed pending host URL\n> `brg_08_load-cases_1.png, brg_08_load-cases_2.png, brg_08_load-cases_3.png, brg_08_load-cases_4.png, brg_08_load-cases_5.png`\n\n_Captured Thursday, 28 November 2019 11:42 a.m. · Bridge › Loads & Analysis_\n\n- Load factors\n- Building, Design code\n- PoleWallDesignGuideV1.0\n- ASNZS 1170.0- General principles , Page 20\n- Bridge manual: Bridge-manual-pdf-complete-v3.4 , page 57\n- Reference documents: PoleWallDesignGuideV1.0\n- Strength reduction factor\n- b1-structure-1st-edition-amendment-21 , page\n- In geotechnical work overall factors of safety for static load conditions are usually taken to be at least 2.0, so in general this would result in a design with a minimum capacity to demand ratio of 2.0, assuming all load and material factors are unity.\n- Strength reduction factors: B1\n- Sesoc\n- Static\n- Cohesive\n- 0.65\n- Cohesionless\n- 0.75\n- EQ\n- Cohesive\n- 0.65\n- Cohesionless\n- 0.75\n- Timber pole\n- Static\n- 0.8\n- EQ\n- 1.0\n- esoc\n- Static\n- Cohesive\n- 0.55\n- Cohesionless\n- 0.65\n- EQ\n- Cohesive\n- 0.80\n- Cohesionless\n- 0.90\n- 4.3 GROUND WATER\n- ASNZS 1170.1-2002\n- The action resulting from hydrostatic pressure of water acting on surfaces below ground level (Fgw) shall be the value assuming the water level is at ground level or, where information is available, the ground water level with an annual probability of exceedance of 1 in 50.",
+  "imgs": [
+   "brg_08_load-cases_1.png",
+   "brg_08_load-cases_2.png",
+   "brg_08_load-cases_3.png",
+   "brg_08_load-cases_4.png",
+   "brg_08_load-cases_5.png"
+  ]
+ },
+ {
+  "title": "Seismic Load - Retaining Wall",
+  "section": "Loads & Analysis",
+  "tags": [
+   "Seismic",
+   "Analysis",
+   "Walls"
+  ],
+  "std": [],
+  "note_type": "Reference Summary",
+  "content": "> 📷 **20 diagram(s)** — embed pending host URL\n> `brg_09_seismic-load-retaining-wall_1.png, brg_09_seismic-load-retaining-wall_2.png, brg_09_seismic-load-retaining-wall_3.png, brg_09_seismic-load-retaining-wall_4.png, brg_09_seismic-load-retaining-wall_5.png, brg_09_seismic-load-retaining-wall_6.png …`\n\n_Captured Friday, 5 August 2016 8:35 a.m. · Bridge › Loads & Analysis_\n\n- Reference documents;\n- Reference document;\n- Mylonakis_et_al_SDEE_2007 - An alternative to the Mononobe–Okabe equations for seismic earth pressures\n- Bridge-manual-pdf-complete-v3.4\n- Bridge-manual-commentary-pdf-complete-v1.1\n- RRU 84-2 Seismic design of bridge abutments and retaining walls\n- Earthquake resistance design\n- 5/08/2016 9:23 a.m. - Screen Clipping\n- Foundation Design\n- 6.2.4 Earthquake earth pressure\n- For region in figure 11 refer to table 1\n- 55(1) - Re-Evaluation Of New Zealand Seismic Hazard For Geotechnical Assessment And Design\n- 6.2.2 EQ load and analysis for Stability, liquification and displacement analysis\n- Peak ground accelerations (PGA) to be ‘unweighted’\n- 𝐶0,1000 from\n- table C6.1 of comentary\n- 6.2.3 EQ load for structure design\n- 6.2.4 Load on structure\n- Δ\n- 𝑃𝐸\n- , From Bulletin 84\n- Mononobe-Okabe earthquake\n- pressure increments\n- shall be used only when there is\n- sufficient wal\n- l movement for the wall to be ‘\n- flexible\n- ’.\n- Passive earth pressure decrements\n- due to earthquake shaking shall be applied for the earthquake load case where passive pressures are relied on\n- to provide stability\n- 𝑃𝐵\n- being out of phase with Δ\n- 𝑃𝐸\n- +\n- 𝑃𝐼\n- may be taken account of by applying the square root of the sum of the squares of the forces.\n\n**Design Criteria**\n- 4.8.2\n\n**Design load**\n- Static earth pressure + LL surcharge(12kPa HN or 24kPa HO) + GW\n- Or\n- Static earth pressure + EQ(6.2.4) +GW\n- localised wheel load or other point load effects\n- Boussinesq’s equations\n- PGA\n- PGA - Peak Ground Acceleration\n- h\n- Typical value of soil bearing capacity\n- For preliminary design purposes, BS 8004 [1] gives typical values of allowable bearing capacity\n- From < http://www.geotechdata.info/parameter/bearing-capacity.html >\n\n**Sliding resistance**\n- 80% of vertical load shall be considered due to vertical acceleration\n- Sliding resistance of one support shall be considered\n- φ\n- sl\n- S\n- φ\n- s\n- l\n- = 0.8",
+  "imgs": [
+   "brg_09_seismic-load-retaining-wall_1.png",
+   "brg_09_seismic-load-retaining-wall_2.png",
+   "brg_09_seismic-load-retaining-wall_3.png",
+   "brg_09_seismic-load-retaining-wall_4.png",
+   "brg_09_seismic-load-retaining-wall_5.png",
+   "brg_09_seismic-load-retaining-wall_6.png",
+   "brg_09_seismic-load-retaining-wall_7.png",
+   "brg_09_seismic-load-retaining-wall_8.png",
+   "brg_09_seismic-load-retaining-wall_9.png",
+   "brg_09_seismic-load-retaining-wall_10.png",
+   "brg_09_seismic-load-retaining-wall_11.png",
+   "brg_09_seismic-load-retaining-wall_12.png",
+   "brg_09_seismic-load-retaining-wall_13.png",
+   "brg_09_seismic-load-retaining-wall_14.png",
+   "brg_09_seismic-load-retaining-wall_15.png",
+   "brg_09_seismic-load-retaining-wall_16.png",
+   "brg_09_seismic-load-retaining-wall_17.png",
+   "brg_09_seismic-load-retaining-wall_18.png",
+   "brg_09_seismic-load-retaining-wall_19.png",
+   "brg_09_seismic-load-retaining-wall_20.png"
+  ]
+ },
+ {
+  "title": "Traffic load - Retaining wall",
+  "section": "Loads & Analysis",
+  "tags": [
+   "Analysis",
+   "Walls"
+  ],
+  "std": [],
+  "note_type": "Reference Summary",
+  "content": "> 📷 **2 diagram(s)** — embed pending host URL\n> `brg_10_traffic-load-retaining-wall_1.png, brg_10_traffic-load-retaining-wall_2.png`\n\n_Captured Saturday, 1 June 2019 12:00 a.m. · Bridge › Loads & Analysis_\n\n- Reference Documents;\n- PD 6694-1-2011 - Recommendations for the design of structures subject to trafﬁc loading to BS EN 1997-12004",
+  "imgs": [
+   "brg_10_traffic-load-retaining-wall_1.png",
+   "brg_10_traffic-load-retaining-wall_2.png"
+  ]
+ },
+ {
+  "title": "Compaction Induced Pressure",
+  "section": "Loads & Analysis",
+  "tags": [
+   "Analysis"
+  ],
+  "std": [],
+  "note_type": "Concept-Theory",
+  "content": "> 📷 **3 diagram(s)** — embed pending host URL\n> `brg_11_compaction-induced-pressure_1.png, brg_11_compaction-induced-pressure_2.png, brg_11_compaction-induced-pressure_3.png`\n\n_Captured Thursday, 12 March 2020 3:09 PM · Bridge › Loads & Analysis_\n\n- Compaction pressures will be based on Clough and Duncan (1991)..\n- earthpressures_2013_updated\n- During construction, compaction\n- At rest pressure, ko\n- Surcharge, if moved under surcharge, then ka for soil as well\n- EPR, Jimmy\n- PRS\n- DOT\n- HATCH\n- GHD",
+  "imgs": [
+   "brg_11_compaction-induced-pressure_1.png",
+   "brg_11_compaction-induced-pressure_2.png",
+   "brg_11_compaction-induced-pressure_3.png"
+  ]
+ },
+ {
+  "title": "Surcharge",
+  "section": "Loads & Analysis",
+  "tags": [
+   "Analysis"
+  ],
+  "std": [
+   "AS 5100"
+  ],
+  "note_type": "Reference Summary",
+  "content": "> 📷 **3 diagram(s)** — embed pending host URL\n> `brg_12_surcharge_1.png, brg_12_surcharge_2.png, brg_12_surcharge_3.png`\n\n_Captured Thursday, 8 August 2024 8:57 AM · Bridge › Loads & Analysis_\n\n- AS: Load factor: α = 1.5\n- Load: F=k γ h\n\n**Combination**\n\n**Reference documents**\n- AS 5100.2-2017 - Design loads\n\n**Minimum Surcharge**\n- 2 Feet height of soil, soil embankment, small equipment, material storage",
+  "imgs": [
+   "brg_12_surcharge_1.png",
+   "brg_12_surcharge_2.png",
+   "brg_12_surcharge_3.png"
+  ]
+ },
+ {
+  "title": "Horizontal move and Settlement - Retaining Wall",
+  "section": "Loads & Analysis",
+  "tags": [
+   "Analysis",
+   "Walls"
+  ],
+  "std": [],
+  "note_type": "Reference Summary",
+  "content": "> 📷 **1 diagram(s)** — embed pending host URL\n> `brg_13_horizontal-move-and-settleme_1.png`\n\n_Captured Wednesday, 4 September 2019 10:15 a.m. · Bridge › Loads & Analysis_\n\n- The allowable seismic induced permanent lateral displacements are limited as per Table 6.1 of NZTA BM 3rd Ed Am02 (2016)\n- Reference Documents;\n- Bridge-manual-pdf-complete-v3.4\n- RR 553 - Liquefaction and lateral spreading effects-1\n\n**Ground instability**\n- earthquake shaking\n- earthquake induced liquefaction\n- lateral spreading\n- liquefaction and lateral spreading\n- RR 553 - Liquefaction and lateral spreading effects-1\n- module-3-liquefaction-hazards-version-1\n- Ground imporvements\n- module-5-geotech-ground-improvement-version-1\n- 6.3.2\n\n**Weakening may occur due**\n- shaking,\n- pore pressure build up,\n- liquefaction\n- sensitive fine grained soils\n\n**slope instability can occur**\n- flow failure\n- Flow failures are driven by static shear stresses that lead to large deformation,\n- characterised by sudden initiation, rapid failure, and the large distances\n- Occur near the end of strong shaking or shortly after shaking\n- lateral spreading\n- 6.3.3 Earthquake induced liquefaction\n- module-3-liquefaction-hazards-version-1\n\n**Soil type**\n- Saturated predominantly cohesionless soils (generally\n- sand\n- ,\n- silt\n- and\n- loose sandy gravels\n- )\n- cyclic softening of clays and plastic silts\n- Where liquefaction susceptible soils containing gravels are present, where static CPTs and SPT results would be influenced by gravel particles, the use of in-situ shear wave velocity tests should be considered.\n- Except when gravel particles are present, shear wave velocity testing can be employed only as a testing procedure additional to SPT and CPT tests.",
+  "imgs": [
+   "brg_13_horizontal-move-and-settleme_1.png"
+  ]
+ },
+ {
+  "title": "Design Procedure",
+  "section": "Retaining Walls – General",
+  "tags": [
+   "Walls"
+  ],
+  "std": [],
+  "note_type": "Procedure-Checklist",
+  "content": "_Captured Thursday, 28 November 2019 11:52 a.m. · Bridge › Retaining Walls – General_\n\n- Reference Documents;\n- Worked example;\n- `C:\\Users\\ausfd0\\OneDrive\\6- Books\\Foundation\\Retaining Wall\\Supplementary guidance to the Residential guidance`\n- Deep pile\n- Appendix C - Retaining Wall Design\n- Pad foundation",
+  "imgs": []
+ },
+ {
+  "title": "Guardrail - Retaining wall",
+  "section": "Retaining Walls – General",
+  "tags": [
+   "Walls",
+   "Detailing"
+  ],
+  "std": [],
+  "note_type": "Reference Summary",
+  "content": "_Captured Tuesday, 20 April 2021 10:09 PM · Bridge › Retaining Walls – General_\n\n- Reference documents;\n- TS419-GuardRailDesignInstall",
+  "imgs": []
+ },
+ {
+  "title": "Precast wall",
+  "section": "Wall Types",
+  "tags": [
+   "Walls"
+  ],
+  "std": [],
+  "note_type": "Reference Summary",
+  "content": "_Captured Tuesday, 29 June 2021 4:07 PM · Bridge › Wall Types_\n\n- Typical drawings;\n- wallsystems",
+  "imgs": []
+ },
+ {
+  "title": "Opening into the precast wall panel",
+  "section": "Wall Types",
+  "tags": [
+   "Walls"
+  ],
+  "std": [],
+  "note_type": "Reference Summary",
+  "content": "> 📷 **1 diagram(s)** — embed pending host URL\n> `brg_17_opening-into-the-precast-wal_1.png`\n\n_Captured Tuesday, 6 September 2022 11:36 AM · Bridge › Wall Types_",
+  "imgs": [
+   "brg_17_opening-into-the-precast-wal_1.png"
+  ]
+ },
+ {
+  "title": "Gabion",
+  "section": "Wall Types",
+  "tags": [
+   "Walls"
+  ],
+  "std": [],
+  "note_type": "Reference Summary",
+  "content": "> 📷 **2 diagram(s)** — embed pending host URL\n> `brg_18_gabion_1.png, brg_18_gabion_2.png`\n\n_Captured Monday, 20 March 2023 10:20 AM · Bridge › Wall Types_\n\n- Design file: Retaining Wall Design to AS5100.3_SW wing wall Rev M\n- Products;\n- `C:\\Users\\ausfd0\\OneDrive - WSP O365\\6- Books\\Catalogue\\Maccaferri`\n- Dimension tolerance, number test or certificate required\n- Gabion design\n- Expected design life\n- Material properties\n- Wire minimum diameter, and minimum tensile strength of wires\n- Minimum required strength for infill rocks\n- Coating\n- Galvanized coating properties for wires\n- Fabrication\n- If a gabion basket required a diaphragm and their arrangement\n- Maximum opening size of gabion basket mesh\n- Installation\n- Tiying baskets\n- Foundation\n- Placement of the baskets",
+  "imgs": [
+   "brg_18_gabion_1.png",
+   "brg_18_gabion_2.png"
+  ]
+ },
+ {
+  "title": "Soil Nails",
+  "section": "Piles & Ground Anchors",
+  "tags": [
+   "Foundations",
+   "Geotech"
+  ],
+  "std": [],
+  "note_type": "Reference Summary",
+  "content": "_Captured Monday, 20 March 2023 2:24 PM · Bridge › Piles & Ground Anchors_\n\n- Reference documents;\n- NZ;\n- The Design of Ground Anchors and Soil N...y 1 - New Zealand Geotechnical Society\n- US;\n- nhi14007 - Soil Nail Manual - Reference Manual\n- 202101-GM-SoilNailWalls-a11y\n- if99015 - GROUND ANCHORS AND ANCHORED SYSTEMS",
+  "imgs": []
+ },
+ {
+  "title": "King Post",
+  "section": "Piles & Ground Anchors",
+  "tags": [
+   "Foundations",
+   "Geotech"
+  ],
+  "std": [],
+  "note_type": "Reference Summary",
+  "content": "_Captured Tuesday, 21 March 2023 9:12 AM · Bridge › Piles & Ground Anchors_\n\n- Reference documents;\n- ACI 423.6-01_423.6R-01 Specification for Unbonded Single-Strand Tendons and Commentary\n- `US: C:\\Users\\ausfd0\\OneDrive - WSP O365\\6- Books\\Standards\\US\\DOT\\WsDOT`",
+  "imgs": []
+ },
+ {
+  "title": "CFA Piles",
+  "section": "Piles & Ground Anchors",
+  "tags": [
+   "Foundations",
+   "Geotech"
+  ],
+  "std": [],
+  "note_type": "Reference Summary",
+  "content": "> 📷 **1 diagram(s)** — embed pending host URL\n> `brg_21_cfa-piles_1.png`\n\n_Captured Tuesday, 21 March 2023 11:16 AM · Bridge › Piles & Ground Anchors_\n\n- Reference documents\n- AS;\n- NSW: TS 02020_0.00_Use of CFA Piles on Bridges\n- VicRoads: Sec607 - continuous flight auger piles\n- W Aus: specification-814-continuous-flight-auger-piles\n- US;\n- FHWA-HIF-07-03 - Design and Construction of Continuous Flight Auger (CFA) Piles\n- augered-cast-in-place-cfa-piles-specification",
+  "imgs": [
+   "brg_21_cfa-piles_1.png"
+  ]
+ },
+ {
+  "title": "Driven pile",
+  "section": "Piles & Ground Anchors",
+  "tags": [
+   "Foundations",
+   "Geotech"
+  ],
+  "std": [],
+  "note_type": "Reference Summary",
+  "content": "_Captured Tuesday, 21 March 2023 11:28 AM · Bridge › Piles & Ground Anchors_\n\n- Reference documents;\n- nhi16009_v1 - Design and Construction of Driven Pile Foundations Volume I",
+  "imgs": []
+ },
+ {
+  "title": "Screw pile",
+  "section": "Piles & Ground Anchors",
+  "tags": [
+   "Foundations",
+   "Geotech"
+  ],
+  "std": [],
+  "note_type": "Reference Summary",
+  "content": "_Captured Tuesday, 21 March 2023 11:35 AM · Bridge › Piles & Ground Anchors_\n\n- Reference documents;\n- PN 28 - Screw_Piles_Guidelines_for_Design_Construction_and_Installation",
+  "imgs": []
+ },
+ {
+  "title": "Lateral earth pressure - Soil pressure coefficients",
+  "section": "Loads & Analysis",
+  "tags": [
+   "Analysis"
+  ],
+  "std": [],
+  "note_type": "Concept-Theory",
+  "content": "> 📷 **3 diagram(s)** — embed pending host URL\n> `brg_24_lateral-earth-pressure-soil-_1.png, brg_24_lateral-earth-pressure-soil-_2.png, brg_24_lateral-earth-pressure-soil-_3.png`\n\n_Captured Sunday, 21 July 2024 10:59 PM · Bridge › Loads & Analysis_\n\n\n**Design file**\n- Lateral earth pressure\n\n**Reference documents**\n- ts-chpt-4-a11y\n- principles of foundation engineering 7th edition\n- Coulombs,\n- Passive: Cl 7.10- Page 360\n- Foundation Analysis and Design [Bowles, 1997] , Page 623\n- Rankine ka is for frictionless wall\n- For Coulombs method friction of the wall should be known\n- One should not use the Rankine method for K\n- p\n- when β > 0\n- Neither cover cohesive soil\n- principles of foundation engineering 7th edition\n- Shear zone AC shall not pass through the wall\n\n**Coulomb’s theory**\n- Range between 1/2 to 2/3 of Φ",
+  "imgs": [
+   "brg_24_lateral-earth-pressure-soil-_1.png",
+   "brg_24_lateral-earth-pressure-soil-_2.png",
+   "brg_24_lateral-earth-pressure-soil-_3.png"
+  ]
+ },
+ {
+  "title": "Cantilever timber retaining wall",
+  "section": "Wall Types",
+  "tags": [
+   "Walls"
+  ],
+  "std": [
+   "AASHTO LRFD",
+   "NZS 3603",
+   "NZS 3604",
+   "NZS 1170.5"
+  ],
+  "note_type": "Reference Summary",
+  "content": "> 📷 **7 diagram(s)** — embed pending host URL\n> `brg_25_cantilever-timber-retaining-_1.png, brg_25_cantilever-timber-retaining-_2.png, brg_25_cantilever-timber-retaining-_3.png, brg_25_cantilever-timber-retaining-_4.png, brg_25_cantilever-timber-retaining-_5.png, brg_25_cantilever-timber-retaining-_6.png …`\n\n_Captured Friday, 4 August 2023 11:08 AM · Bridge › Wall Types_\n\n\n**Typical design**\n- TTT RW003 Technical Guideline Retaining Wall 10030 v2 Feb2016\n- Sample Drawings: PP2O-SSEMP-RW1-Retaining-Walls\n\n**Products**\n\n**Design file**\n- Timber pole retaining wall - 23-06-2025\n\n**Series calc**\n- Updated Pole Design 120707\n- Note: Timber Pole notes\n- Reference documents;\n- Geotech Parameters;\n- principles of foundation engineering 7th edition\n\n**Pile structure**\n- b1-structure-1st-edition-amendment-21 , Page 71\n\n**Specification**\n- Auckland;\n- ACS1320_Timber_Pole_Retaining_Walls_Ver_2.0_Rev2,_March_2023\n- ac2231-retaining-walls\n\n**Sample drawings**\n- Up to 1m height\n- 0418-footpath-retaining-walls-less-1m\n- NZ\n- Earthquake geotechnical engineering practice\n- guidance-on-the-seismic-design-of-retaining-walls\n- NZGeoNews-June-2021-magazine , Page 16\n- 2014(27)356 - Timber pole retaining walls in cohesive soils - design variables investigation\n- Bridge-manual-pdf-complete-v3.4\n- NZS 1170.5-2004+A1-Earthquake actions\n- TTT\n- `TTT\\3- Retaining Wall Guidelines`\n- TTT RW001 Technical Guideline Retaining Wall 10030 v2 Feb2016\n- EC\n- BS EN 1998-5-2004\n- CIRIA\n- CIRIA_C760 - Guidance on embedded retaining wall design\n- SS, CIRIA_C580-Embedded retaining walls - guidance for economic design\n- US\n- NCHRP-RPT-611 - Seismic Analysis and Design of Retaining Walls, Buried Structures, Slopes, and Embankments\n- Worked example;\n- From NZGS\n- Guide\n- worked-example-1-cantilever-timber-pole\n- Example\n- worked-example-1-cantilever-timber-pole\n- SeSoc\n- Guide\n- PoleWallDesignGuideV1.0\n- Example\n- Timber pole Retaining wall - 2.5m - Cohesive\n\n**Single pile analysis**\n- Broms Method\n- Poles to be shaved and naturally tapered, with a minimum taper of 6 mm per metre in accordance with NZS 3605: 2001.\n- Poles to be normal-density radiata pine with outer-zone density greater than 350 kg/m³ and treated to a minimum CCA Hazard Class H5 in accordance with NZS 3640: 2003.\n- Poles to be installed with large end embedded into footing.\n- Poles to be grouted with 20 MPa concrete.\n- Rails to be secured to poles with galvanised nails.\n- Rails to be 150 × 50 mm rough-sawn H4 timber.\n- CONCRETE COMPRESSIVE STRENGTH AT 28 DAYS SHALL BE 20MPa\n- TIMBER SHALL BE VSG8 GRADE RADIATA PINE COMPLYING WITH NZS 3603 AND GRADED TO NZS 3631 (MIN BENDING STRENGTH 11.7M\n- ALL TIMBER SHALL BE BRANDED TO NZS 3640:2\n- ROUND OR ROUGH SAWN PILES IN CONTACT WITH THE GROUND TO BE H5.\n- ROUGH SAWN TIMBER NOT IN CONTACT WITH THE GROUND TO BE H3.2\n\n**Software**\n- Se\n- Total dead load\n- Floor + wall + roof\n- 3.5+0.75+0.75=5kPa\n- PoleWallDesignGuideV1.0\n- This calculation is prepared in accordance with the principles of B1/VM1. However, it is presented as an ‘alternative design method’ due to the absence of a national standard or other widely accepted design methodology.\n- Load resistance factor is not being used for the following\n- depth to point of foundation rotation\n- depth to maximum below-ground moment on the pole\n- For cohesive backfile refer to\n- Generalized_analytical_expression_for_dy\n- it is generally conservative to assume cohesionless soil for designing a retaining wall when the actual soil has cohesive properties. Here's why:\n- Lower Shear Strength\n- Higher Lateral Earth Pressure\n- Safety Margin for Cohesion Loss\n- Simplified Analysis\n- For the design of the retaining wall, a cohesionless soil assumption has been adopted. This conservative approach accounts for the presence of granular backfill material placed between the excavated ground and the retaining wall, ensuring a robust and reliable design while simplifying the analysis and accommodating potential variations in soil behaviour over time.\n- Superimposed loading is distributed and ‘normal’, and does not include heavy traffic loading, crane loading,\n- Soil does not lose strength, e.g. liquefy in the event of the design earthquake\n\n**Seeking advice from Geotechnical Engineer**\n- Global geotechnical instability\n- Defects or discontinuities in the soil or rock matrix\n- Changes in effective strength due to earthworks\n- Groundwater\n- Liquefaction potential\n- Undesirable levels of wall deflection, both in the static and seismic load case scenarios\n- Undesirable levels of wider ground movement, both in the static and seismic load case scenarios\n- The impact of any ground movements on neighbouring properties, buildings, roads or buried infrastructure\n- Where peat or peaty soils occur below ground level\n- Soft or cohesionless soils which may require temporary support of pile holes\n- Constructability of the wall type in the given ground conditions, and/or,\n- Confirmation of the safest construction sequence(s) to manage health and safety risks\n- Mode 1 and 3 is to be addressed by structure engineer, mode 3 would not happen in normal range of wall mode 4 to be check by Geotech engineer.\n- Weight of single-story building\n- NZS 3604-2011+adv - Timber framed buildings\n\n**Roof Dead Load**\n- Lightweight Roof (e.g., metal): 0.5 to 1.0 kPa\n- Heavy Roof (e.g., concrete tiles): 1.0 to 2.0 kPa\n\n**Floor Dead Load**\n- Timber Floor: 0.5 to 1.5 kPa\n- Concrete Floor: 2.5 to 5.0 kPa\n\n**Wall Dead Load**\n- Timber Frame Wall (with cladding): 0.5 to 1.0 kPa\n- Concrete or Masonry Wall: 2.0 to 3.5 kPa\n- Light Construction\n- Heavy Construction\n\n**Detailing**\n- Height\n- Up to 3.5m\n\n**Wall slope**\n- Refer to ACS1320.5.1 - 1 to 10 raked\n\n**Top cut**\n- Refer to ACS1320.5.1 - 15Deg\n- Standard length\n- SED001 Technical Guideline Nov22\n\n**Pole spacing**\n- Holes to be placed at 3 hole diameters\n- Typically the pole spacing will be governed by the strength of the lagging.\n- Depth to diameter is usually is 5\n- Railing\n- Use SG8 150x50\n- Gap\n- With drain pipe - No gap\n- Without drain pipe - 5 to 10mm gap (Wall less than 1m height)\n\n**Geotechnical concern**\n- where the retaining structure is on a boundary, and/or reducing displacement is required, use of a higher loading pressure (e.g. ‘at-rest’’) may be necessary\n- poles are founded into undisturbed ground, and that (for concrete-encased poles) sides of bored hole have not slumped prior to concreting\n- Under seismic/short-term loading conditions with cohesive founding soil, an equivalent fluid unit weight is applied as an active pressure even when water is not expected to develop behind the wall\n- The level of the water table, if present, is assumed to be at a height hw above ground level (normally between 0 and H/3) on the retained side of the wall, and at ground level at the front\n- Other companies projects: Building Consent - 2022 44218 - 263 Horsham Downs Road - All Documents - Final Copy (2)\n- Design points: Failure in soil is preferred mode of failure\n- Fundamental assumptions\n- Backfill soil is cohesionless\n- Normal ‘active’ soil pressures; where the retaining structure is on a boundary, and/or reducing displacement is required, use of a higher loading pressure (e.g. ‘at-rest’’) may be necessary\n- Retaining wall\n- Global geotechnical instability\n- Groundwater\n- Liquefaction potential\n- Undesirable levels of wall deflection, both in the static and seismic load case scenarios\n- Undesirable levels of wider ground movement, both in the static and seismic load case scenarios\n- The impact of any ground movements on neighbouring properties, buildings, roads or buried infrastructure\n- Soft or cohesionless soils which may require temporary support of pile holes\n\n**Load factors**\n- Geometrical limitations\n- Mononobe–Okabe Method\n- AASHTO LRFD Bridge Design Specifications-9th Ed (US) , Page 1621\n- For cohesionless soil",
+  "imgs": [
+   "brg_25_cantilever-timber-retaining-_1.png",
+   "brg_25_cantilever-timber-retaining-_2.png",
+   "brg_25_cantilever-timber-retaining-_3.png",
+   "brg_25_cantilever-timber-retaining-_4.png",
+   "brg_25_cantilever-timber-retaining-_5.png",
+   "brg_25_cantilever-timber-retaining-_6.png",
+   "brg_25_cantilever-timber-retaining-_7.png"
+  ]
+ },
+ {
+  "title": "Cantilever concrete retaining wall",
+  "section": "Wall Types",
+  "tags": [
+   "Walls"
+  ],
+  "std": [
+   "AS 5100"
+  ],
+  "note_type": "Reference Summary",
+  "content": "> 📷 **1 diagram(s)** — embed pending host URL\n> `brg_26_cantilever-concrete-retainin_1.png`\n\n_Captured Sunday, 21 July 2024 11:10 PM · Bridge › Wall Types_\n\n\n**Design file**\n- B1-V21- Appendix C\n- 2-Retaining Wall Design-SH21-Wall 1-Rev3-GeoTech Load\n\n**Standard Products**\n- hu-l-t-walls-iss2\n- Sample from Aecom\n- Reference documents: T-CEP-702 - Retaining Wall Design Notes\n- RRU 84-2 Seismic design of bridge abutments and retaining walls\n- b1-structure-1st-edition-amendment-21 , Page 71\n- module-6-earthquake-resistant-retaining-wall-design-version-1\n\n**AS**\n- AS 5100.3_Supp1-2008\n- Worked example;\n- From NZGS\n- worked-example-2-concrete-cantilever\n- For seismic load case\n- Assume undrained soil properties.\n- For bearing capacity\n- Foundation Analysis and Design [Bowles, 1997]",
+  "imgs": [
+   "brg_26_cantilever-concrete-retainin_1.png"
+  ]
+ },
+ {
+  "title": "Embedded wall",
+  "section": "Wall Types",
+  "tags": [
+   "Walls"
+  ],
+  "std": [],
+  "note_type": "Reference Summary",
+  "content": "> 📷 **1 diagram(s)** — embed pending host URL\n> `brg_27_embedded-wall_1.png`\n\n_Captured Monday, 13 January 2025 10:18 pm · Bridge › Wall Types_\n\n\n**Reference documents**\n- EC\n- BS EN 1998-5-2004\n- CIRIA\n- CIRIA_C760 - Guidance on embedded retaining wall design\n- SS, CIRIA_C580-Embedded retaining walls - guidance for economic design\n- Soil types\n- soft soils\n- stiff clays\n- competent soils\n- soft rocks.\n- Construction consideration: Ground condition\n- boulders can prevent the installation of sheet piles\n- The presence of hard strata above the required toe level will necessitate special measures to ensure that the wall is installed\n- Groundwater\n- wall will usually be required to act as a groundwater cut-off to prevent flow directly from the retained ground into the excavation.\n- Constructability requirements\n- Sheet pile - ArcelorMittal\n- maritime structures - BS 6349\n- Cofferdams - Williams and Waite\n- Durability\n- soil contains particularly aggressive contaminants.\n- Contaminated ground\n- minimise the risks to the site operatives and to the environment\n- Environmental issues\n- It is important to adopt a clear,\n- unambiguous design method\n- ground investigation,\n- laboratory and field testing,\n- design analysis\n- use of good quality case study data.\n- Soil type\n- Competent soils\n- Very week rock\n- typically with unconfined compressive strengths of less than\n- 5 MPa\n- , where the engineering behaviour of the mass can be characterised by failure through the material itself and not along pre-existing discontinuities/joints.\n- Less competent soil\n- typically fine-grained soils with undrained shear strengths of less than\n- 40 kPa\n- .\n- siliceous, fluvial\n- marine deposits,\n- Geotechnical categories\n- Geotechnical Category 1\n- small and relatively simple structure with negligible risk\n- Geotechnical Category 2\n- conventional types of structure and foundation with no exceptional risk or difficult ground or loading conditions.\n- Geotechnical Category 3\n- very large or unusual structures, structures involving abnormal risks, or unusual or exceptionally difficult ground or loading conditions, structures in highly seismic areas, and structures in areas of probable site instability or persistent ground movements that require separate investigation or special measures\n\n**geotechnical investigations**\n- Geotechnical Category 1 – qualitative geotechnical investigations based on local experience should suffice.\n- Geotechnical Category 2 – the provisions of EC7-2 apply.\n- Geotechnical Category 3 – requires careful thought because of the exceptional nature of the issues to be addressed.\n\n**Economy can be achieved by**\n- ensuring ease of construction and minimising construction duration\n- optimising the use of materials\n- applying appropriate design effort.\n- Optimise the temporary and permanent use of the retaining structure\n- performance criteria for the retaining structure, such as acceptable limits for wall deflection and associated ground movements, and crack width criteria\n- The cost of constructing a retaining wall is usually high compared with the cost of forming a battered slope. The need for a retaining wall should be assessed carefully during design and efforts should be made to keep the retained height as low as possible.\n- An excavation cannot be made without causing ground movements. The chosen wall type and construction sequence should ensure that these movements, and their effects, remain within pre-defined limits.\n- To ensure certainty of outcome in an increasingly fragmented construction environment, the following\n\n**are essential**\n- good communication between all parties\n- a team approach to problem-solving\n- integrated total project process\n- risk-based approach to design and construction management.\n- Analysis\n- Limit equilibrium analysis\n- However, linear distributions of lateral stress are unlikely to represent the real in-service conditions around complex walls\n- Subgrade reaction and pseudo-finite element methods\n- Although actual construction sequences can be modelled, these methods and solutions are not exact.\n- Finite element and finite difference methods\n- Finite element and finite difference methods give theoretically complete solutions,\n- Design is a continuous process, requiring regular reviews to ensure that the client’s requirements are being met over the project life cycle.",
+  "imgs": [
+   "brg_27_embedded-wall_1.png"
+  ]
+ },
+ {
+  "title": "Masonry Retaining Wall",
+  "section": "Wall Types",
+  "tags": [
+   "Walls"
+  ],
+  "std": [
+   "NZS 4229"
+  ],
+  "note_type": "Reference Summary",
+  "content": "_Captured Monday, 5 May 2025 10:14 pm · Bridge › Wall Types_\n\n- https://chatgpt.com/s/dr_681efeb0a6d881919b82ef44a2e0ac71\n- Rural Zone Exemption\n- if a professional engineer designs it\n\n**Reference documents**\n\n**Detail**\n- New Zealand Concrete Masonry Manual , Page 372\n- Concrete Block Masonry\n\n**US**\n- SD-702-All\n- TEK 15-07B - Concrete masonry cantilever retaining walls\n- 202210BDPChapter112EarthRetainingSystemsA11y\n\n**AS**\n- CMAA-RW01-Concrete-Masonry-Reinforced-Cantilever-Retaining-Walls\n- AS 4678-2002 - Earth-retaining structures\n- NZ\n- T-CEP 702 Retaining Wall Design Notes\n- Building Code\n- NZS 4229-2013 Masonry Non-Specific\n- NZS 4230-2004 Design of Reinforced Concrete Masonry Structures\n- NZS 4210-2001 Masonry construction Materials and workmanship\n- Land Development: NZS 4404-2010 - Land development and subdivision infrastructure\n- NZS 4404 2010-CAD-IN-PDF\n- NZS 4431- 2022 - Engineered fill construction for lightweight structures\n- Auckland\n- ac2231-retaining-walls\n- BRANZ\n- Build120-25-BuildRight-RetainingWalls\n- Build-152-26-Build-Right-Low-Retaining-Walls\n- Build-160-86-LBP-Knowledge-Exempt-Building-Work-Part-1\n- Issue 562 - Low-retaining-walls\n\n**Design**\n- module-6-earthquake-resistant-retaining-wall-design-version-1\n- MBIE\n- Guidance on the seismic design of retaining structures\n- Software\n- Sesoc Soil\n- Specification: Masterspec: 2214 and 2215\n- NZ Building Code (Other Clauses)\n- Clause B1 –\n- guidelines for site investigation, settlement, and retaining wall design (Appendices A–C of B1/VM4)\n- Clause B2 – Durability\n- : Retaining walls, as structural elements, should be durable for at least 50 years (typical for primary structure). This affects material choices (e.g. concrete block strength, mortar type) and cover to reinforcement to prevent corrosion.\n- Clause F4 – Safety from Falling\n- : If the wall creates a drop of >1.0 m in an area accessible to people (e.g. next to a driveway or patio), a compliant barrier or fence is required on top for safety.\n- Clause E1 – Surface Water\n- : Site drainage must prevent water from causing instability. Groundwater and stormwater behind the wall should be collected and removed to avoid undermining the structure.\n\n**Design load**\n- NZS 1170.1 requires considering water pressure if drainage is not present\n- Established methods such as those in Standards like AS 4678 are recommended for calculating seismic earth pressures\n- 5 kPa\n- is the minimum assumed surcharge for garden/landscaping load, and\n- 12 kPa\n- is used if there is a driveway or possible vehicle access on the adjoining property.\n- if a wall is fully tanked (waterproof) or of a type that can’t relieve water (like a concrete block wall without weepholes), then it\n- must\n- be designed for full hydrostatic pressure\n- For typical wall up to 5kPa load and height limited to 2m\n- Retaining wall to be constructed as per Concrete NZ Detail RW-XYZ, with 20 Series block, fully filled, vertical D16 bars at 400 mm centers,” etc., which is derived from the manual.",
+  "imgs": []
+ },
+ {
+  "title": "Specification",
+  "section": "Retaining Walls – General",
+  "tags": [
+   "Detailing"
+  ],
+  "std": [],
+  "note_type": "Reference Summary",
+  "content": "_Captured Tuesday, 1 July 2025 5:13 pm · Bridge › Retaining Walls – General_\n\n- Reference documents: KHT-NZU-SPE-05 Rev B Part E Geotechnical and Civil Structures",
+  "imgs": []
+ },
+ {
+  "title": "Crib wall",
+  "section": "Wall Types",
+  "tags": [
+   "Walls"
+  ],
+  "std": [],
+  "note_type": "Reference Summary",
+  "content": "> 📷 **3 diagram(s)** — embed pending host URL\n> `brg_30_crib-wall_1.png, brg_30_crib-wall_2.png, brg_30_crib-wall_3.png`\n\n_Captured Sunday, 13 July 2025 8:06 pm · Bridge › Wall Types_",
+  "imgs": [
+   "brg_30_crib-wall_1.png",
+   "brg_30_crib-wall_2.png",
+   "brg_30_crib-wall_3.png"
+  ]
+ },
+ {
+  "title": "Images",
+  "section": "Retaining Walls – General",
+  "tags": [
+   "Walls"
+  ],
+  "std": [],
+  "note_type": "Reference Summary",
+  "content": "",
+  "imgs": []
+ },
+ {
+  "title": "Stone Walls and Pillars",
+  "section": "Wall Types",
+  "tags": [
+   "Walls"
+  ],
+  "std": [],
+  "note_type": "Reference Summary",
+  "content": "> 📷 **3 diagram(s)** — embed pending host URL\n> `brg_32_stone-walls-and-pillars_1.png, brg_32_stone-walls-and-pillars_2.png, brg_32_stone-walls-and-pillars_3.png`\n\n_Captured Thursday, 10 July 2025 9:37 pm · Bridge › Wall Types_\n\n- Stone Walls and Pillars\n- https://archipro.co.nz/products/outdoor-and-landscaping/fencing-and-gates/fencing/stone-walls-and-pillars\n- Pixabay\n- Created with OneNote.",
+  "imgs": [
+   "brg_32_stone-walls-and-pillars_1.png",
+   "brg_32_stone-walls-and-pillars_2.png",
+   "brg_32_stone-walls-and-pillars_3.png"
+  ]
+ }
+]
